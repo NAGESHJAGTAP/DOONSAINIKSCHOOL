@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Shield Background -->
+  <path d="M50 5 L88 20 C88 60 50 92 50 92 C50 92 12 60 12 20 Z" fill="#0c1a30" stroke="#f59e0b" stroke-width="4"/>
+  <!-- Inner Shield Border -->
+  <path d="M50 12 L82 24 C82 56 50 84 50 84 C50 84 18 56 18 24 Z" fill="#1b385e" stroke="#fbbf24" stroke-width="1.5" opacity="0.6"/>
+  <!-- Star / Insignia -->
+  <polygon points="50,25 54,37 67,37 57,45 61,57 50,49 39,57 43,45 33,37 46,37" fill="#f59e0b"/>
+  <!-- Crossed Swords / Torch motif -->
+  <line x1="32" y1="68" x2="68" y2="40" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="68" y1="68" x2="32" y2="40" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="50" cy="54" r="5" fill="#f59e0b"/>
+</svg>
